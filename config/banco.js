@@ -1,8 +1,8 @@
 import Sequelize from "sequelize";
 
-const NOME_BANCO = 'escola'
+const NOME_BANCO = 'prova'
 const USER = 'root'
-const PASSWORD = 'root'
+const PASSWORD = ''
 const HOST = 'localhost'
 
 const sequelize = new Sequelize(
